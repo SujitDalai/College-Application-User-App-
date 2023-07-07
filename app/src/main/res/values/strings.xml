@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">UnivIT</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="about_college">Named after the chairman and founder of the Hero Group,
+        Dr. Brijmohan Lall Munjal, BML Munjal University is engaged in creating, preserving and
+        imparting internationally benchmarked knowledge and skills to a diverse community of
+        students from across the world. BMU’s aim is to nurture ethical leaders who are skilled,
+        knowledgeable and have the life skills needed to lead organisations to success.BMU seeks
+        to transform higher education in India by creating a world-class and innovative teaching,
+        learning and research environment. Founded by the Hero Group and mentored by Imperial College
+        London, BMU is a not-for-profit initiative offering undergraduate and post-graduate courses.
+        BMU provides inter-disciplinary learning and transformative education that empowers students to
+        become innovators, risk-takers and leaders. ************************************* </string>
+    <string name="abt1">The university is named after the chairman and founder of the Hero Group, Dr. Brijmohan Lall Munjal,
+        BML Munjal University is engaged in creating, preserving and imparting internationally benchmarked
+        knowledge and skills to a diverse community of students from across the world. BMU’s aim is to
+        nurture ethical leaders who are skilled, knowledgeable and have the life skills needed to lead
+        organisations.</string>
+    <string name="abt2">BMU seeks to transform higher education in India by creating a world-class and
+        innovative teaching, learning and research environment. Founded by the Hero Group and mentored by
+        Imperial College London, BMU is a not-for-profit initiative offering undergraduate and post-graduate
+        courses effectively.</string>
+    <string name="abt3">BMU’s unique experiential-learning environment will nurture the spirit of inquiry,
+        creativity, problem-solving, entrepreneurship and innovation; and promote hands-on and cross-disciplinary
+        learning; and inculcate a raft of values, job and life skills. This will ensure that BMU students are
+        transformed into well-rounded, industry-ready individuals, who are equipped to take on leadership responsibilities
+        from day one of graduating from the university and ensure a smooth transition.</string>
+</resources>
